@@ -85,21 +85,21 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* edit #1, consolidated into single class */
+/* edit #1, consolidated into a single class */
 .benefit-brand,
 .benefit-cost,
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* edit #2, consolidated into single class */
+/* edit #2, consolidated into a single class */
 .benefit-cost h3,
 .benefit-brand h3,
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* edit #3, consolidated into single class */
+/* edit #3, consolidated into a single class */
 .benefit-cost img,
 .benefit-brand img,
 .benefit-lead img {
@@ -107,7 +107,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* edit #4, consolidated into single class */
+/* edit #4, consolidated into a single class */
 .social-media-marketing,
 .online-reputation-management,
 .search-engine-optimization {
@@ -118,30 +118,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* edit #5, consolidated into a single class */
+.online-reputation-management img,
+.social-media-marketing img,
 .search-engine-optimization img {
     max-height: 200px;
 }
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
+/* edit #6, consolidated into a single class */
+.social-media-marketing h2,
+.online-reputation-management h2,
 .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
