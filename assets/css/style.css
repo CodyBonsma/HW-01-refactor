@@ -31,11 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* changed div to nav in order to links changes in html */
 .header nav ul {
     list-style-type: none;
 }
-
+/* changed div to nav in order to links changes in html */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
