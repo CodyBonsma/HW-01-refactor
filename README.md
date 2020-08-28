@@ -31,8 +31,11 @@ example:
 
 To help make the html more accessible, I have replaced generic <div> tags with semantic tags. This allows the viewer to easily identify the code and its structure on the webpage itself.
 
-## Link to Horiseon 
+## Links to Horiseon 
 
+(https://codybonsma.github.io/HW-01-refactor/)
+
+(https://github.com/CodyBonsma/HW-01-refactor)
 
 
 
